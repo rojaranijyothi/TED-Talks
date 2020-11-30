@@ -30,6 +30,7 @@ https://www.kaggle.com/rounakbanik/ted-talks
 This dataset contains two csv files:
 
 ted_main.csv - Contains data on actual TED Talk metadata and TED Talk speakers.
+
 transcripts.csv - Contains transcript and URL information for TED Talks.
 
 #### 3.2 Data Definition
