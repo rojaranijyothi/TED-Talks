@@ -1,1 +1,1 @@
-# TED-Talks
+# TED-Talks Recommendation system and Summarization
