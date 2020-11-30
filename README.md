@@ -80,7 +80,7 @@ We visualized the TED Talks based on various parameters. We visualized the most 
 ![most_viewed talks](https://github.com/rojaranijyothi/TED-Talks/blob/main/Figures/Most_viewd_talks.png)
 ![occupation-views](https://github.com/rojaranijyothi/TED-Talks/blob/main/Figures/occupation_w.r.t_views.png)
 ![yearly_talks](https://github.com/rojaranijyothi/TED-Talks/blob/main/Figures/yearly_talk.png)
-![occupatio_wordcloud](http://localhost:8889/view/Desktop/Springboard/TED-Talks/Figures/occupation-wordcloud.png)
+![occupatio_wordcloud](https://github.com/rojaranijyothi/TED-Talks/blob/main/Figures/occupation-wordcloud.png)
 
 
 ### 5. Data Preprocessing
