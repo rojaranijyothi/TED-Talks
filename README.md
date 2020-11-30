@@ -27,7 +27,7 @@ The source of the data set is:
 
 https://www.kaggle.com/rounakbanik/ted-talks
 
-TThis dataset contains two csv files:
+This dataset contains two csv files:
 
 ted_main.csv - Contains data on actual TED Talk metadata and TED Talk speakers.
 transcripts.csv - Contains transcript and URL information for TED Talks.
@@ -38,7 +38,6 @@ Columns description for the ted_main.csv file
 
 Column Name |	Description	
 ----------- | -----------
-
 name | The official name of the TED Talk. Includes the title and the speaker
 title | The title of the talk
 description | A blurb of what the talk is about
@@ -61,7 +60,6 @@ Columns description for the transcript.csv file
 
 Column Name |	Description	
 ----------- | -----------
-
 transcript | Transcript of the talk  
 url | The URL of the talk
 
