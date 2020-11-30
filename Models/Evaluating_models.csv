@@ -1,0 +1,6 @@
+Model,Acuuracy(mean),Acuuracy(std)
+SVM,0.345,0.001
+KNN,0.019,0.019
+RF,0.017,0.017
+SGDC,0.038,0.038
+LogReg,0.021,0.021
